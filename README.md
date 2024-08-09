@@ -1,5 +1,11 @@
 ## yo. ✌️
 
+<picture>
+  <source srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuuusername&label=Profile%20Views.&labelColor=%231e1e2e&countColor=%23cba6f7&style=flat&labelStyle=lower" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuuusername&label=Profile%20Views.&labelColor=%23eff1f5&countColor=%238839ef&style=flat&labelStyle=lower" media="(prefers-color-scheme: light)" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuuusername&label=Profile%20Views.&labelColor=%23eff1f5&countColor=%238839ef&style=flat&labelStyle=lower" />
+</picture>
+
 i'm dylan.<br>
 a software developer.<br>
 i solve problems (mostly mine).<br>
