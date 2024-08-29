@@ -8,7 +8,6 @@
 
 i'm dylan.<br>
 a software developer.<br>
-i solve problems (mostly mine).<br>
 currently working at monash tech school.
 
 <div style="display: flex; align-items: center; gap: 10px;">
