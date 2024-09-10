@@ -7,7 +7,7 @@
 </picture>
 
 i'm dylan.<br>
-a software developer.<br>
+a software developer/software engineer.<br>
 currently working at monash tech school.
 
 <div style="display: flex; align-items: center; gap: 10px;">
