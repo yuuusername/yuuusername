@@ -6,8 +6,8 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyuuusername&label=Profile%20Views.&labelColor=%23eff1f5&countColor=%238839ef&style=flat&labelStyle=lower" />
 </picture>
 
-i'm yu.<br>
-a software developer/software engineer.<br>
+i'm dylan / yu.<br>
+a software developer / software engineer.<br>
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <picture>
